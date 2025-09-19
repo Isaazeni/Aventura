@@ -1,1 +1,16 @@
-html
+body {
+background-color: hsl(318, 100%, 88%), 100%, 88%);
+color: black;
+font-family: "Bai Jamjuree", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button {
+background-color: hsl(308, 100%, 84%), 100%, 84%);
+color: Black;
+font-family: "Bai Jamjuree", sans-serif;
+}
