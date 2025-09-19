@@ -1,6 +1,6 @@
 body {
-background-color: hsl(303, 100%, 85%), 100%, 85%);
-color: black;
+background-color: hsl(303, 100%, 83%);
+color: rgb(5, 0, 0);
 font-family: "Bai Jamjuree", sans-serif;
 display: flex;
 justify-content: center;
@@ -10,7 +10,7 @@ margin: 0;
 }
 
 button {
-background-color: #fcdcf1;
-color: rgb(7, 7, 7);
+background-color: #f7ddf7;
+color: rgb(2, 2, 2);
 font-family: "Bai Jamjuree", sans-serif;
 }
